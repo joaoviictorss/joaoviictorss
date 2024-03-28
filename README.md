@@ -15,4 +15,4 @@
 
 ### GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviictorss&theme=OneDarkPro)![GitHubStatus](https://github-readme-stats.vercel.app/api?username=joaoviictorss&theme=OneDarkPro)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviictorss&theme=OneDarkPro) ![GitHubStatus](https://github-readme-stats.vercel.app/api?username=joaoviictorss&theme=OneDarkPro)
