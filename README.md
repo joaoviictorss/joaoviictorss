@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Victor !
 
-#### Um entusiasta da tecnologia atualmente dedicado aos estudos em Engenharia da computação na USJT (Universidade São Judas Tadeu).
+#### Desenvolvedor Front End, dedicado aos estudos em Engenharia da computação na USJT (Universidade São Judas Tadeu).
 
 #### Minha paixão pela área de tecnologia se reflete na minha versatilidade, atualmente estou focado em desenvolvimento front-end. Tenho proficiência em JavaScript e Frameworks como React e Next.js, as quais utilizo para criar soluções inovadoras. Permaneço constantemente atualizado, pois acredito que o aprendizado contínuo é essencial no cenário tecnológico em constante evolução.
 
